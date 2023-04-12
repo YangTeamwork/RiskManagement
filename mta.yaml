@@ -101,7 +101,7 @@ resources:
         oauth2-configuration: # <-- add this
           redirect-uris:
           # example: - https://risk-management-approuter.cfapps.eu10-004.hana.ondemand.com/login/callback
-            - https://cld200-cf-a02-dev-risk-management-approuter.cfapps.eu10-004.hana.ondemand.com/login/callback
+            - https://cld200-cf-a02-dev-risk-management-approuter.cfapps.eu10-004.hana.ondemand.com/
 
   # ------------------------------------------------------------
   - name: risk-management-db
